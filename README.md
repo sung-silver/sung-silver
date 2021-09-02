@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 
-![EUNA's GitHub stats](https://github-readme-stats.vercel.app/api?username=EUNA-319&theme=vue&show_icons=true)
+![EUNA's GitHub stats](https://github-readme-stats.vercel.app/api?username=EUNA-319&show_icons=true&theme=dark)
