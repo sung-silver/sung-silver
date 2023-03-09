@@ -64,4 +64,4 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=9370db&height=50&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=9370db&height=70&section=footer)
