@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=9370db&height=300&section=header&text=Welcome%20euna's%20github&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=soft&Color=9370db&height=100&section=header&text=Welcome%20euna's%20github&fontSize=50)
 
 <h2 align="center"> 👩🏻‍💻 About me 👩🏻‍💻 </h2>
 <h3 align="center">  💜 contact & SNS 💜 </h3>
