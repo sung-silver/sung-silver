@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h2 align="center"> 👩🏻‍💻 About me 👩🏻‍💻 </h2>
 <h3 align="center">  💜 contact & SNS 💜 </h3>
 <div align="center">
-	<a href="mailto:jinna0319@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-EA4335?style=flat&logo=Gmail&logoColor=white" /></a>
-  <a href ="https://fascination-euna.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=Tistory&logoColor=white" /></a>
-	<a href ="https://www.instagram.com/sung._.silver/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Instagram&logoColor=white" /></a>
+	<a href="mailto:jinna0319@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=flat&logo=Gmail&logoColor=white" /></a>
+  <a href ="https://fascination-euna.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=Tistory&logoColor=white" /></a>
+	<a href ="https://www.instagram.com/sung._.silver/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Instagram&logoColor=white" /></a>
 </div>
 <br>
 <h3 align="center">  ✨ interest ✨ </h3>
