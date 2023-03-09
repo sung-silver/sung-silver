@@ -39,6 +39,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
   <br>
+	<img src="https://img.shields.io/badge/spring-boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" />
