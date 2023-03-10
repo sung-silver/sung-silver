@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 <br>
 <h3 align="center">  ✨ interest ✨ </h3>
 <div align="center">
-	<img src="https://img.shields.io/badge/spring-boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/spring-security-6db33f?style=flat&logo=Spring Security&logoColor=white" />
+	<img src="https://img.shields.io/badge/Server Development-3776AB?style=flat&logo=Server Fault&logoColor=white" />
 	<img src="https://img.shields.io/badge/Open Bug Bounty-F67909?style=flat&logo=Open Bug Bounty&logoColor=white" />
 </div>
 <br>
