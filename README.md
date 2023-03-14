@@ -57,8 +57,10 @@ Here are some ideas to get you started:
 <br>
 <br>
 <div align = "center">
-	<img src="https://github-readme-stats.vercel.app/api?username=euna-319&show_icons=true">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgns72" height="200"></a>
+	
+| ![euna's GitHub stats](https://github-readme-stats.vercel.app/api?username=EUNA-319&show_icons=true&title_color=9796f0&text_color=f5f5f5&icon_color=dadaf5&hide_border=true&bg_color=00000000) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EUNA-319&layout=compact&hide_border=true&title_color=9796f0&text_color=f5f5f5&bg_color=00000000)](https://github.com/EUNA-319/) |
+| ------------- | ------------- |
+	
 </div>
 <br>
 <br>
