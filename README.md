@@ -14,7 +14,6 @@
 | Best of the Best 11기 | 2022.07 ~ 2023.03 | Best of the Best 11기 취약점 분석 트랙                                                         |
 | GO SOPT 32nd          | 2023.03 ~ 2023.08 | 대학생 연합 IT 벤처 창업 연합 SOPT 32th Server Backend, SOPT 미디어팀(ShowMe)                  |
 | DO SOPT 33rd          | 2023.09 ~ 2024.01 | 대학생 연합 IT 벤처 창업 연합 SOPT 33rd Server Backend, SOPT 미디어팀(TellMe), Server Part MVP |
-| 논술메이트            | 2023.09 ~ 2024.01 | 대학생 연합 IT 벤처 창업 연합 SOPT 33rd Server Backend, SOPT 미디어팀(TellMe), Server Part MVP |
 
 <h2>💻 Projects</h3>
 
