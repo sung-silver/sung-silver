@@ -22,9 +22,7 @@
 | 2022.10 ~ 2023.12 | 무인 매장 취약점 분석 | Best of the Best 11기 프로젝트, 무인 헬스장 취약점 분석 및 무인 매장 보안 가이드라인 작성 |
 | 2023.07 ~ ing | 건빵                  | "당신이 찾는 그 건강한 빵집이 여기에!", Backend Developer, <a href="https://github.com/GEON-PPANG/GEON-PPANG-SERVER">github</a>, <a href="https://apps.apple.com/kr/app/%EA%B1%B4%EB%B9%B5-%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%B0%BE%EB%8A%94-%EA%B7%B8-%EA%B1%B4%EA%B0%95%ED%95%9C-%EB%B9%B5%EC%A7%91%EC%9D%B4-%EC%97%AC%EA%B8%B0%EC%97%90/id6467130761">App Store</a>, <a href="https://play.google.com/store/apps/details?id=com.sopt.geonppang&pli=1">Google Play</a> |
 | 2023.12 ~ ing | 논술메이트            | "논술입시의 가격부담과 시공간 제약을 없애다", Backend Lead Developer, <a href="https://github.com/nonsoolmate-official/nonsoolmate-server">github</a>, 2024 정주영 창업경진대회 합격  |
-| 2023.12 ~ 2024.05 | Carry:Us              | "들고 다니지 말고, 가볍게! 짐 보관 걱정을 덜어주기 위한 여행자와 가게 사장님 중개 플랫폼", 2024-1 숙명여자대학교 소프트웨어학부 졸업작품 |
-| 2024.03 ~ 2023.06 | NL2SQL                | 2024-1 숙명여자대학교 산합협력프로그램, 비플레이스 |
-| 2022.04 ~ 2023.06 | Movier                | "영화와 마음을 함께하는 공간", 2024-1 데이터베이스프로그래밍 팀프로젝트, JSP를 활용한 데이터베이스프로그래밍 |
+| 2022.04 ~ 2024.06 | Movier                | "영화와 마음을 함께하는 공간", 2024-1 데이터베이스프로그래밍 팀프로젝트, JSP를 활용한 데이터베이스프로그래밍 |
 
 <h2>🎖️ Awards/Certificates</h2>
 
