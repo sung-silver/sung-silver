@@ -52,7 +52,12 @@
 <div>
 <a href="https://velog.io/@euna"><img src ="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
 <a href="https://github.com/sung-silver/"><img src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+</div>
 
-</div><br/>
+<h2>👩🏻‍💻 I'm currently working on</h2>
 
-![Sung-Silver's GitHub stats](https://github-readme-stats.vercel.app/api?username=sung-silver&show_icons=true&count_private=true&include_all_commits=true)
+![euna's GitHub stats](https://github-readme-stats.vercel.app/api?username=sung-silver&theme=dracula)
+
+<h2>⭐️ My Top Languages</h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sung-silver&layout=compact&theme=dracula)
